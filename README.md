@@ -3,7 +3,7 @@ Real-time Emotion Recognition Using GPT with Python and OpenCV 📷
 
 
 
-https://pyresearch.org/real-time-gpt-facial-emotion
+https://pyresearch.org/real-time-emotion-recognition-using-gpt-with-python-and-opencv/
 
 ### Watch the Complete Step by Step Explanation
 
